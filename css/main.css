@@ -1,14 +1,8 @@
 /* Why hello there, sexy.
    This is a CSS comment. Anything between /*  and * / will be like this.
    Comments have NO effect on your webpage. NONE! ZERO!
-<<<<<<< HEAD
 */<style type="text/css">
     body {
-=======
-*/
-
-body {
->>>>>>> changed location of css
       padding-top: 20px;
       padding-bottom: 40px;
     }
@@ -66,10 +60,6 @@ body {
 
     .btn {
       margin-bottom: 15px;
-<<<<<<< HEAD
     }
 
   </style>
-=======
-    }
->>>>>>> changed location of css
